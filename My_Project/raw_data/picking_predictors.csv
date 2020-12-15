@@ -1,0 +1,288 @@
+predictors,coefficients,coef_abs
+Inequality in education (%),-0.015402541927077717,0.015402541927077717
+"School enrollment, primary (% gross)",0.009805394590667212,0.009805394590667212
+"Population ages 15-64, female (% of female population)",0.009450879750820054,0.009450879750820054
+"Domestic general government health expenditure per capita, PPP (current international $)",0.009263433318562763,0.009263433318562763
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",-0.00895753932497636,0.00895753932497636
+Forest area (sq. km),-0.007783057560397716,0.007783057560397716
+"Secondary education, general pupils (% female)",0.007342947579522852,0.007342947579522852
+"Agriculture, forestry, and fishing, value added (% of GDP)",-0.0072606888677811746,0.0072606888677811746
+"Out-of-pocket expenditure per capita, PPP (current international $)",0.007221739134369725,0.007221739134369725
+Agricultural land (% of land area),-0.006960033905182521,0.006960033905182521
+"Pupil-teacher ratio, primary",-0.0066714023970510525,0.0066714023970510525
+"Tuberculosis incidence (per 100,000 people)",-0.005684176392755027,0.005684176392755027
+Mobile cellular subscriptions (per 100 people),0.005407229505844064,0.005407229505844064
+"Unemployment, youth (% ages 15–24)",0.005312689653945258,0.005312689653945258
+"Prevalence of wasting in
+ children under five years (%)",-0.004908703394657904,0.004908703394657904
+Inequality in income (%),0.0047184526304373045,0.0047184526304373045
+Food exports (% of merchandise exports),-0.004674824650931885,0.004674824650931885
+"Employment in services, male (% of male employment) (modeled ILO estimate)",0.004274891003089132,0.004274891003089132
+"School enrollment, preprimary (% gross)",0.004271175753681795,0.004271175753681795
+"School enrollment, preprimary, female (% gross)",0.004141928150999232,0.004141928150999232
+"Contributing family workers, male (% of male employment) (modeled ILO estimate)",-0.004122664057827308,0.004122664057827308
+"PM2.5 pollution, population exposed to levels exceeding WHO Interim Target-3 value (% of total)",-0.003778144334886647,0.003778144334886647
+Total fisheries production (metric tons),0.0037692018134670596,0.0037692018134670596
+Exports and imports (% of GDP),-0.003589549347023876,0.003589549347023876
+"Tariff rate, applied, weighted mean, manufactured products (%)",-0.0035767955802561116,0.0035767955802561116
+Permanent cropland (% of land area),0.003366412610185747,0.003366412610185747
+"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",0.0031379516170536043,0.0031379516170536043
+"Immunization, DPT (% of children ages 12-23 months)",0.003057166403069124,0.003057166403069124
+Rural population with access to electricity (%),0.002967253359889373,0.002967253359889373
+International inbound tourists (thousands),0.002940224540634384,0.002940224540634384
+Import value index (2000 = 100),0.0029266227620297703,0.0029266227620297703
+"Government expenditure on education, total (% of GDP)",-0.0029057943418618628,0.0029057943418618628
+Sex ratio at birth (male births per female births),0.002833512293360491,0.002833512293360491
+"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",-0.0027012790253700125,0.0027012790253700125
+"Repeaters, primary, total (% of total enrollment)",-0.002557014358118043,0.002557014358118043
+"Industry (including construction), value added (% of GDP)",0.0025099672215987013,0.0025099672215987013
+Implied PPP conversion rate,-0.00249378794581404,0.00249378794581404
+Rural population (% of total population),-0.0022052107250553517,0.0022052107250553517
+"Population ages 15-64, male (% of male population)",0.002138510724339823,0.002138510724339823
+"Insurance and financial services (% of service exports, BoP)",0.0020738980817201543,0.0020738980817201543
+Fertilizer consumption (kilograms per hectare of arable land),0.0020536900666223244,0.0020536900666223244
+"Insurance and financial services (% of service imports, BoP)",0.0018396984829179832,0.0018396984829179832
+Source data assessment of statistical capacity (scale 0 - 100),0.00181241935703148,0.00181241935703148
+"Travel services (% of service imports, BoP)",0.0017737079884390756,0.0017737079884390756
+Ores and metals exports (% of merchandise exports),0.0016828474112152065,0.0016828474112152065
+"Employers, male (% of male employment) (modeled ILO estimate)",0.0016673816933752224,0.0016673816933752224
+Agricultural raw materials exports (% of merchandise exports),-0.0016184426379344476,0.0016184426379344476
+"Physicians (per 1,000 people)",0.0016078555625996494,0.0016078555625996494
+"Prevalence of stunting in
+ children under five years (%)",-0.0015046688191712254,0.0015046688191712254
+Forest area (% of land area),-0.0013634895096139162,0.0013634895096139162
+Employment in services (% of total employment),0.0013494200361204541,0.0013494200361204541
+"Tariff rate, most favored nation, simple mean, all products (%)",-0.001244558305247084,0.001244558305247084
+Electric power transmission and distribution losses (% of output),-0.0012161600886984169,0.0012161600886984169
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",0.0011320427854683488,0.0011320427854683488
+Food imports (% of merchandise imports),-0.0011189829190435578,0.0011189829190435578
+Lower secondary school starting age (years),-0.0011063382027464844,0.0011063382027464844
+Domestic private health expenditure (% of current health expenditure),-0.0010765299483965068,0.0010765299483965068
+Export value index (2000 = 100),0.001046707489926761,0.001046707489926761
+"Self-employed, female (% of female employment) (modeled ILO estimate)",-0.00097613003836246,0.00097613003836246
+Claims on central government (annual growth as % of broad money),-0.0009391764627951296,0.0009391764627951296
+"Electricity production from oil, gas and coal sources (% of total)",-0.0009174448085974731,0.0009174448085974731
+Crop production index (2004-2006 = 100),0.0008967184972800224,0.0008967184972800224
+Manufactures imports (% of merchandise imports),0.000886391959392511,0.000886391959392511
+"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",-0.0008791898091199184,0.0008791898091199184
+Gender Development Index (GDI),0.0008417923240772721,0.0008417923240772721
+Methane emissions (% change from 1990),-0.0008168413614631615,0.0008168413614631615
+Import unit value index (2000 = 100),0.0008017673774022529,0.0008017673774022529
+Fixed telephone subscriptions (per 100 people),0.0006352716403905026,0.0006352716403905026
+CO2 emissions from manufacturing industries and construction (% of total fuel combustion),-0.0005647005418560041,0.0005647005418560041
+CO2 emissions (metric tons per capita),0.000547949016522972,0.000547949016522972
+Livestock production index (2004-2006 = 100),0.0005463090949982695,0.0005463090949982695
+Customs & other import duties,-0.0005408577166428221,0.0005408577166428221
+External balance on goods and services (% of GDP),0.0005099845588422779,0.0005099845588422779
+Tuberculosis treatment success rate (% of new cases),0.00042341347443134656,0.00042341347443134656
+Nitrous oxide emissions (% change from 1990),-0.0003567386821965943,0.0003567386821965943
+"School enrollment, primary (gross), gender parity index (GPI)",0.0003515438284116805,0.0003515438284116805
+Start-up procedures to register a business (number),-0.00034699115379737376,0.00034699115379737376
+Methodology assessment of statistical capacity (scale 0 - 100),0.0003077179224422353,0.0003077179224422353
+"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",-0.00030166482746398995,0.00030166482746398995
+"International tourism, expenditures for passenger transport items (current US$)",-0.00023983245123500042,0.00023983245123500042
+"Industry (including construction), value added (annual % growth)",0.00021037482625277636,0.00021037482625277636
+"Tariff rate, applied, simple mean, all products (%)",-0.00019938143676944992,0.00019938143676944992
+GDP per capita growth (annual %),0.0001952259198785357,0.0001952259198785357
+Energy use (kg of oil equivalent per capita),8.315144808235951e-05,8.315144808235951e-05
+"School enrollment, preprimary, male (% gross)",0.0,0.0
+"Adolescent birth rate (births per 1,000 women ages 15-19)",-0.0,0.0
+Rural population,0.0,0.0
+"Preprimary education, duration (years)",-0.0,0.0
+Ores and metals imports (% of merchandise imports),-0.0,0.0
+Other revenue,-0.0,0.0
+"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",-0.0,0.0
+Percentage of individuals using the internet,0.0,0.0
+Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),-0.0,0.0
+"Personal remittances, received (% of GDP)",0.0,0.0
+"Personal remittances, received (current US$)",0.0,0.0
+Population,0.0,0.0
+"Primary education, duration (years)",0.0,0.0
+Renewable energy consumption (% of total final energy consumption)_x,0.0,0.0
+"Primary education, pupils",0.0,0.0
+"Primary education, pupils (% female)",0.0,0.0
+Primary energy production (petajoules),-0.0,0.0
+Property income revenue,-0.0,0.0
+Proportion of seats held by women in national parliaments (%),0.0,0.0
+Ratio of female to male labor force participation rate (%) (modeled ILO estimate),-0.0,0.0
+Refugee population by country or territory of origin,0.0,0.0
+"Remittances, inflows (% of GDP)",-0.0,0.0
+"Primary education, teachers",-0.0,0.0
+"Share of employment in nonagriculture, female (% of total employment in nonagriculture)",-0.0,0.0
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",0.0,0.0
+Total population (millions),0.0,0.0
+Total unemployment rate (female to male ratio),-0.0,0.0
+Trade (% of GDP),-0.0,0.0
+Trade in services (% of GDP),0.0,0.0
+Transport services (% of commercial service exports),-0.0,0.0
+Transport services (% of commercial service imports),-0.0,0.0
+"Transport services (% of service exports, BoP)",-0.0,0.0
+"Transport services (% of service imports, BoP)",-0.0,0.0
+Travel services (% of commercial service exports),-0.0,0.0
+Travel services (% of commercial service imports),0.0,0.0
+"Travel services (% of service exports, BoP)",-0.0,0.0
+"Unemployment, female (% of female labor force) (modeled ILO estimate)",-0.0,0.0
+"Unemployment, male (% of male labor force) (modeled ILO estimate)",0.0,0.0
+"Unemployment, total (% of labour force)",0.0,0.0
+"Unemployment, total (% of total labor force) (modeled ILO estimate)",-0.0,0.0
+"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",0.0,0.0
+"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",0.0,0.0
+"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",0.0,0.0
+Urban population,-0.0,0.0
+Urban population (% of total population),0.0,0.0
+Urban population (%),0.0,0.0
+Urban population growth (annual %),0.0,0.0
+Vulnerable employment (% of total employment),-0.0,0.0
+"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",-0.0,0.0
+"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",-0.0,0.0
+"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",0.0,0.0
+"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",0.0,0.0
+"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",0.0,0.0
+Total supply (petajoules),-0.0,0.0
+Taxes on int trade & transactions,-0.0,0.0
+"School enrollment, primary, male (% gross)",0.0,0.0
+"Taxes on income, profits, & capital gains",-0.0,0.0
+Scientific and technical journal articles,0.0,0.0
+"Seats held by women in national parliament, as of February (%)",0.0,0.0
+"Secondary education, duration (years)",0.0,0.0
+"Secondary education, general pupils",0.0,0.0
+"Secondary income receipts (BoP, current US$)",0.0,0.0
+"Self-employed, male (% of male employment) (modeled ILO estimate)",-0.0,0.0
+"Self-employed, total (% of total employment) (modeled ILO estimate)",-0.0,0.0
+"Service exports (BoP, current US$)",0.0,0.0
+"Service imports (BoP, current US$)",0.0,0.0
+"Services, value added (% of GDP)",0.0,0.0
+"Services, value added (annual % growth)",0.0,0.0
+Sex ratio at birth (male to female births),0.0,0.0
+Number of infant deaths,0.0,0.0
+Share of seats in parliament (% held by women),-0.0,0.0
+Statistical Capacity score (Overall average),-0.0,0.0
+Surface area (sq. km),-0.0,0.0
+"Tariff rate, applied, simple mean, manufactured products (%)",-0.0,0.0
+"Tariff rate, applied, simple mean, primary products (%)",-0.0,0.0
+"Tariff rate, applied, weighted mean, all products (%)",-0.0,0.0
+"Tariff rate, applied, weighted mean, primary products (%)",-0.0,0.0
+"Tariff rate, most favored nation, simple mean, manufactured products (%)",-0.0,0.0
+"Tariff rate, most favored nation, simple mean, primary products (%)",-0.0,0.0
+"Tariff rate, most favored nation, weighted mean, all products (%)",-0.0,0.0
+"Tariff rate, most favored nation, weighted mean, manufactured products (%)",-0.0,0.0
+"Tariff rate, most favored nation, weighted mean, primary products (%)",0.0,0.0
+Tax revenue,-0.0,0.0
+Taxes on goods & services,-0.0,0.0
+Number of neonatal deaths,0.0,0.0
+"Labour force participation rate (% ages 15 and older), male",0.0,0.0
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),-0.0,0.0
+Emissions (thousand metric tons of carbon dioxide),-0.0,0.0
+"Employers, total (% of total employment) (modeled ILO estimate)",0.0,0.0
+Employment in agriculture (% of total employment),-0.0,0.0
+Employment in agriculture (% of total employment) (modeled ILO estimate),-0.0,0.0
+"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",-0.0,0.0
+Employment in industry (% of total employment) (modeled ILO estimate),0.0,0.0
+"Employment in industry, female (% of female employment) (modeled ILO estimate)",-0.0,0.0
+Employment in services (% of total employment) (modeled ILO estimate),0.0,0.0
+"Employment in services, female (% of female employment) (modeled ILO estimate)",0.0,0.0
+Employment to population ratio (% ages 15 and older),0.0,0.0
+"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",0.0,0.0
+"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",0.0,0.0
+"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",0.0,0.0
+"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",-0.0,0.0
+"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",-0.0,0.0
+"Energy imports, net (% of energy use)",0.0,0.0
+Export volume index (2000 = 100),-0.0,0.0
+Exports of goods and services (% of GDP),-0.0,0.0
+"Exports of goods and services (BoP, current US$)",0.0,0.0
+Exports of goods and services (constant 2010 US$),0.0,0.0
+Exports of goods and services (current US$),0.0,0.0
+"Exports of goods, services and primary income (BoP, current US$)",0.0,0.0
+External balance on goods and services (current US$),-0.0,0.0
+Final consumption expenditure (annual % growth),-0.0,0.0
+Final consumption expenditure (constant 2010 US$),-0.0,0.0
+Final consumption expenditure (current US$),-0.0,0.0
+"Employers, female (% of female employment) (modeled ILO estimate)",0.0,0.0
+Electricity production from oil sources (% of total),-0.0,0.0
+Food production (Index Base: 2004-2006 = 100),0.0,0.0
+"Domestic private health expenditure per capita, PPP (current international $)",0.0,0.0
+Age dependency ratio (% of working-age population),-0.0,0.0
+Agricultural land (sq. km),-0.0,0.0
+Agricultural production (Index Base: 2004-2006 = 100),0.0,0.0
+"Air transport, passengers carried",-0.0,0.0
+Arable land (% of land area),-0.0,0.0
+Arable land (hectares per person),0.0,0.0
+"Automated teller machines (ATMs) (per 100,000 adults)",0.0,0.0
+Broad money (% of GDP),0.0,0.0
+CO2 emissions (kt),-0.0,0.0
+"Claims on central government, etc. (% GDP)",0.0,0.0
+Combustible renewables and waste (% of total energy),0.0,0.0
+"Commercial bank branches (per 100,000 adults)",0.0,0.0
+Commercial service exports (current US$),0.0,0.0
+Commercial service imports (current US$),0.0,0.0
+"Communications, computer, etc. (% of service exports, BoP)",0.0,0.0
+"Communications, computer, etc. (% of service imports, BoP)",-0.0,0.0
+"Computer, communications and other services (% of commercial service exports)",0.0,0.0
+"Computer, communications and other services (% of commercial service imports)",-0.0,0.0
+Concentration index (exports) (value),-0.0,0.0
+"Contributing family workers, female (% of female employment) (modeled ILO estimate)",-0.0,0.0
+"Contributing family workers, total (% of total employment) (modeled ILO estimate)",-0.0,0.0
+Corruption Perception Index,0.0,0.0
+Current account balance (% of GDP),0.0,0.0
+Domestic credit to private sector by banks (% of GDP),0.0,0.0
+Domestic private health expenditure per capita (current US$),0.0,0.0
+Fixed telephone subscriptions,-0.0,0.0
+"Foreign direct investment, net (BoP, current US$)",0.0,0.0
+"Net trade in goods and services (BoP, current US$)",-0.0,0.0
+"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",-0.0,0.0
+"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",-0.0,0.0
+"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",0.0,0.0
+"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",0.0,0.0
+"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",0.0,0.0
+"Labor force, female (% of total labor force)",-0.0,0.0
+"Labor force, total",0.0,0.0
+Labour force participation rate (% ages 15 and older),0.0,0.0
+"Labour force participation rate (% ages 15 and older), female",0.0,0.0
+Land area (sq. km),-0.0,0.0
+Manufactures exports (% of merchandise exports),0.0,0.0
+"Manufacturing, value added (% of GDP)",-0.0,0.0
+"Manufacturing, value added (current US$)",0.0,0.0
+Merchandise exports (current US$),0.0,0.0
+Merchandise imports (current US$),0.0,0.0
+Merchandise trade (% of GDP),0.0,0.0
+Methane emissions (kt of CO2 equivalent),-0.0,0.0
+Mobile cellular subscriptions,0.0,0.0
+Mobile phone subscriptions (per 100 people),0.0,0.0
+Net barter terms of trade index (2000 = 100),0.0,0.0
+"Net errors and omissions (BoP, current US$)",-0.0,0.0
+"Net financial account (BoP, current US$)",-0.0,0.0
+Net primary income (Net income from abroad) (current US$),-0.0,0.0
+"Net secondary income (BoP, current US$)",0.0,0.0
+Net secondary income (Net current transfers from abroad) (current US$),0.0,0.0
+"Net trade in goods (BoP, current US$)",-0.0,0.0
+"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",-0.0,0.0
+"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",-0.0,0.0
+"Foreign direct investment, net inflows (BoP, current US$)",-0.0,0.0
+"Internet users, total (% of population)",0.0,0.0
+Forest area (% of total land area),-0.0,0.0
+Fossil fuel energy consumption (% of total energy consumption),0.0,0.0
+Fossil fuel energy consumption (% of total),0.0,0.0
+Fuel exports (% of merchandise exports),-0.0,0.0
+Fuel imports (% of merchandise imports),-0.0,0.0
+GDP growth (annual %),0.0,0.0
+General government final consumption expenditure (constant 2010 US$),-0.0,0.0
+General government final consumption expenditure (current US$),-0.0,0.0
+General government net lending/borrowing,0.0,0.0
+General government primary net lending/borrowing,0.0,0.0
+General government revenue,-0.0,0.0
+General government total expenditure,-0.0,0.0
+General taxes on goods & services,-0.0,0.0
+"Goods exports (BoP, current US$)",0.0,0.0
+"Goods imports (BoP, current US$)",0.0,0.0
+"Immunization, HepB3 (% of one-year-old children)",0.0,0.0
+Imports of goods and services (% of GDP),-0.0,0.0
+"Imports of goods and services (BoP, current US$)",0.0,0.0
+Imports of goods and services (constant 2010 US$),0.0,0.0
+Imports of goods and services (current US$),0.0,0.0
+"Imports of goods, services and primary income (BoP, current US$)",0.0,0.0
+"Industry (including construction), value added (current US$)",0.0,0.0
+"Infants lacking immunization, DPT (% of one-year-olds)",-0.0,0.0
+"Inflation, GDP deflator: linked series (annual %)",-0.0,0.0
+Insurance and financial services (% of commercial service imports),0.0,0.0
+Youth unemployment rate (female to male ratio),-0.0,0.0
