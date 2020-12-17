@@ -1,4 +1,4 @@
-# What impacts the HDI most?
+# What affects the HDI most?
 
 The quest for optimal human development is an ongoing area of research for the past 100+ years. An interesting question is, what could accelerate the process faster? Is rural electrification more important than gender balance? While they both sound unrelated, it does matter when it comes to policy making. With limited resources, policy makers and development agencies always struggle in prioritising their funds. 
 
